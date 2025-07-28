@@ -1,4 +1,4 @@
-# Week 27: Email Campaign Strategy for ACME
+# Week 27: Email Campaign Strategy
 
 Due to the cost of delivering email, **ACME decides to send email to only 25% of its subscriber base for week 27**.
 
